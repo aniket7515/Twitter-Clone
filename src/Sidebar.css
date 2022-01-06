@@ -1,0 +1,32 @@
+.sidebar__tweet{
+    padding: 16px 80px;
+    border-radius: 32px;
+    margin-left: 12px;
+    background-color: #1d9bf0;
+    color: white;
+    font-weight: 800;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    transition: 0.1s;
+    margin-top: 20px;
+
+
+
+}
+.sidebar__tweet:hover{
+    background-color: #168ddd;
+}
+
+.icontwt{
+    color: var(--twitter-color);
+    margin-left: 20px;
+    
+    
+
+
+
+}
+
+
+/* 1:9:03  */
