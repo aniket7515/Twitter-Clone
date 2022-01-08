@@ -33,7 +33,7 @@ function Post({
                     <div className="post__headerDescription">
                         <p>I challenge you to build a twitter clone with me</p>
                     </div>
-                    <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" alt="" />
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1o90EHoFC2wddzt7hadkBFmc1HegsJoxORg&usqp=CAU" alt="" />
                 </div>
                 <div className="post__footer">
                     <ChatBubbleOutlineIcon fontSize="small"/>
